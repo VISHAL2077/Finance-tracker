@@ -1,5 +1,0 @@
-body{ font-family: Arial, sans-serif; padding: 12px }
-.auth-card{ max-width:520px; margin:24px auto; padding:12px; border:1px solid #ddd }
-.nav{ display:flex; gap:12px; margin-bottom:12px }
-.tx-form input, .tx-form select{ margin-right:8px }
-.container{ max-width:900px; margin:0 auto }
